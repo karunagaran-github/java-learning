@@ -4,11 +4,12 @@ public class ArrayEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int num=10;
+		int num=10;
 		
 		//Array is used to store multiple values of same data type in contiguous memory. Array index or subscript will start from 0
 		
 		//first way of creating an array
+
 		int[] num1; //Array declaration
 		num1= new int[5]; //Array initialization
 		
